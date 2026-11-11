@@ -1,3 +1,5 @@
+> **Important**: the `Autodesk.DWF` extension was deprecated in later versions of APS Viewer v7.x, and is removed in v8. The version 7.x will keep the extension and get security fixes until July 31 2027. The supported path is to translate DWF/DWFx through Model Derivative and load the result.
+
 # forge-basic-app
 
 Sample application showing the basic usage of [Autodesk Forge](https://forge.autodesk.com).
